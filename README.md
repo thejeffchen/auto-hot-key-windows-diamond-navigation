@@ -1,0 +1,1 @@
+# auto-hot-key-windows-diamond-navigation
