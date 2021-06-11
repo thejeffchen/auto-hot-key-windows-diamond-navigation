@@ -1,4 +1,4 @@
-# auto-hot-key-windows-diamond-navigation
+# Auto Hot Key Windows IJKL Navigation
 
 Documentation for Windows computers for ijkl navigation
 
