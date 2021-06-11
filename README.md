@@ -9,4 +9,5 @@ Documentation for Windows computers for ijkl navigation
 
 Docs:
 Quickstart: https://www.autohotkey.com/docs/Tutorial.htm
+
 Key reference: https://www.autohotkey.com/docs/Hotkeys.htm
