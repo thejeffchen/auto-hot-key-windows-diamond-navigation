@@ -9,22 +9,62 @@ CapsLock::Alt
 Send, {Home}
 return
 
+!+h::
+Send, +{Home}
+return
+
 !;::
 Send, {End}
+return
+
+!+;::
+Send, +{End}
 return
 
 !i::
 Send, {Up}
 return
 
+!+i::
+Send, +{Up}
+return
+
 !k::
 Send, {Down}
+return
+
+!+k::
+Send, +{Down}
 return
 
 !l::
 Send, {Right}
 return
 
+!+l::
+Send, +{Right}
+return
+
+!^l::
+Send, ^{Right}
+return
+
+!^+l::
+Send, +^{Right}
+return
+
 !j::
 Send, {Left}
+return
+
+!+j::
+Send, +{Left}
+return
+
+!^j::
+Send, ^{Left}
+return
+
+!^+j::
+Send, +^{Left}
 return
