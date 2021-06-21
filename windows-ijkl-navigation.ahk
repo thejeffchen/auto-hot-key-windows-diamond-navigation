@@ -5,6 +5,42 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 CapsLock::Alt
 
+#c::
+Send, ^c
+return
+
+#v::
+Send, ^v
+return
+
+#s::
+Send, ^s
+return
+
+#a::
+Send, ^a
+return
+
+#t::
+Send, ^t
+return
+
+#l::
+Send, ^l
+return
+
+#w::
+Send, ^w
+return
+
+#n::
+Send, ^n
+return
+
+#f::
+Send, ^f
+return
+
 !h::
 Send, {Home}
 return
