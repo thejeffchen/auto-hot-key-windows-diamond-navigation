@@ -13,6 +13,10 @@ return
 Send, ^v
 return
 
+#x::
+Send, ^x
+return
+
 #s::
 Send, ^s
 return
@@ -37,8 +41,20 @@ return
 Send, ^n
 return
 
+#+n::
+Send, ^+n
+return
+
 #f::
 Send, ^f
+return
+
+#k::
+Send, ^k
+return
+
+#r::
+Send, ^r
 return
 
 !h::
