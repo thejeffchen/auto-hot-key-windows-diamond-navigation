@@ -11,3 +11,5 @@ Docs:
 Quickstart: https://www.autohotkey.com/docs/Tutorial.htm
 
 Key reference: https://www.autohotkey.com/docs/Hotkeys.htm
+
+Disable windows keys: https://www.maketecheasier.com/disable-lock-screen-shortcut-key-windows/
